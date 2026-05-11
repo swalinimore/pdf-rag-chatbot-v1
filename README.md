@@ -77,5 +77,5 @@ using external knowledge and respond only from retrieved context.
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/swalinimore/pdf-rag-chatbot.git
+git clone https://github.com/swalinimarym/pdf-rag-chatbot.git
 cd pdf-rag-chatbot
